@@ -29,9 +29,8 @@ DevOps Engineer с инженерным бэкграундом и практич
 - Работа с kubectl, namespaces, RBAC, Helm-чартами
 - Ingress-контроллеры (ingress-nginx), service mesh basics
 
-### CI/CD и GitOps
+### CI/CD
 - Настройка CI/CD пайплайнов (GitLab CI, GitHub Actions)
-- GitOps-подход, Git как источник правды
 - Автоматизация развёртывания и тестирования
 
 ### Контейнеризация
