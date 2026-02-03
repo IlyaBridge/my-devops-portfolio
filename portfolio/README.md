@@ -113,10 +113,12 @@ DevOps Engineer с инженерным бэкграундом и практич
 
 1. DevOps Engineer - Нетология [2025]  
 Курсовая и дипломная работа с полным DevOps-циклом
+![DevOps Engineer](https://github.com/IlyaBridge/my-devops-portfolio/blob/main/img/1_DevOps.jpg)
 
-2. Data Engineer - СберУниверситет [2023]
+3. Data Engineer - СберУниверситет [2023]
+![Data Engineer](https://github.com/IlyaBridge/my-devops-portfolio/blob/main/img/2_Data.png)
 
-3. Высшее образование:  
+5. Высшее образование:  
 НИТУ МИСИС - «Автоматизированные системы обработки информации и управления» [2006]
 
 ---
