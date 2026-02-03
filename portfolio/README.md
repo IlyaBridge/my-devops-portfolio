@@ -112,7 +112,6 @@ DevOps Engineer с инженерным бэкграундом и практич
 ## Образование и сертификаты
 
 1. DevOps Engineer - Нетология [2025]  
-Курсовая и дипломная работа с полным DevOps-циклом
 ![DevOps Engineer](https://github.com/IlyaBridge/my-devops-portfolio/blob/main/img/1_DevOps.jpg)
 
 3. Data Engineer - СберУниверситет [2023]
